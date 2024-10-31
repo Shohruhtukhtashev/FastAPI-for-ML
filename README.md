@@ -1,10 +1,11 @@
 # FastAPI-for-ML
 
-The Iris Dataset
+## The Iris Dataset
 This data sets consists of 3 different types of irises’ (Setosa, Versicolour, and Virginica) petal and sepal length, stored in a 150x4 numpy.ndarray
 
 The rows being the samples and the columns being: Sepal Length, Sepal Width, Petal Length and Petal Width.
 
+This app deploying with fastAPI
 ## Usage
 - clone repository | https://github.com/Shohruhtukhtashev/FastAPI-for-ML.git
 - create environment | `python -m venv [your-env-name]`
